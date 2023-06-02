@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(58, 101, 135);
+    color:aliceblue
+}
+.list{
+    list-style-type:circle;
+
+}
+.todo{
+    background-color: red;
+}
+.hide{
+    background-color: green;
+    color: black;
+}
